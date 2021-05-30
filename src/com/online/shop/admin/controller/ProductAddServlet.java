@@ -31,6 +31,7 @@ public class ProductAddServlet extends HttpServlet {
         int rowCount = productService.addProduct(product);
 
         if(rowCount > 0) {
+            request.setAttribute("productAdded", true);
             response.sendRedirect("/admin/product-list");
         }
     }
