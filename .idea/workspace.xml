@@ -6,7 +6,22 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b0f9391-6d3b-4393-b382-51b74de8e2d1" name="Default Changelist" comment="" />
+    <list default="true" id="5b0f9391-6d3b-4393-b382-51b74de8e2d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/WEB-INF/classes/com/online/shop/admin/controller/ProductAddServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/WEB-INF/classes/com/online/shop/admin/controller/ProductAddServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/WEB-INF/classes/com/online/shop/admin/controller/ProductListServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/WEB-INF/classes/com/online/shop/admin/controller/ProductListServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/WEB-INF/classes/com/online/shop/admin/dao/ProductRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/WEB-INF/classes/com/online/shop/admin/dao/ProductRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/WEB-INF/classes/com/online/shop/admin/dao/ProductRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/WEB-INF/classes/com/online/shop/admin/dao/ProductRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/WEB-INF/classes/com/online/shop/admin/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/WEB-INF/classes/com/online/shop/admin/service/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/WEB-INF/classes/com/online/shop/admin/service/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/WEB-INF/classes/com/online/shop/admin/service/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/pages/product-add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/pages/product-add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/pages/product-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/servlet_online_shop_admin_war_exploded/pages/product-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/servlet-online-shop-admin/META-INF/servlet-online-shop-admin.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/servlet-online-shop-admin/com/online/shop/admin/controller/ProductAddServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/servlet-online-shop-admin/com/online/shop/admin/controller/ProductAddServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servlet-online-shop-admin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/servlet-online-shop-admin.iml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,40 +59,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/online/shop/admin/entity/Product.java">
+        <entry file="file://$PROJECT_DIR$/web/pages/product-list.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="78" lean-forward="true" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/online/shop/admin/controller/ProductAddServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="33" column="33" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="33" />
+            <state relative-caret-position="113">
+              <caret line="21" column="34" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/pages/product-list.jsp">
+        <entry file="file://$PROJECT_DIR$/src/com/online/shop/admin/controller/ProductAddServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+            <state relative-caret-position="119">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/online/shop/admin/service/ProductService.java">
+        <entry file="file://$PROJECT_DIR$/web/assets/css/product-list.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="117">
+              <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -99,29 +102,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/online/shop/admin/controller/ProductListServlet.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/assets/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/assets/css/product-add.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/assets/css/shared.css">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="29" column="61" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/pages/product-add.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="14" column="48" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/online/shop/admin/config/MysqlDatabase.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="28" column="22" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -142,6 +151,12 @@
       <find>ProductAddServlet</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/web/pages/product-list.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -152,16 +167,19 @@
         <option value="$PROJECT_DIR$/src/com/online/shop/admin/config/Database.java" />
         <option value="$PROJECT_DIR$/src/com/online/shop/admin/config/MysqlConnection.java" />
         <option value="$PROJECT_DIR$/src/com/online/shop/admin/entity/Product.java" />
-        <option value="$PROJECT_DIR$/web/pages/product-list.jsp" />
-        <option value="$PROJECT_DIR$/web/pages/product-add.jsp" />
         <option value="$PROJECT_DIR$/src/com/online/shop/admin/config/MysqlDatabase.java" />
-        <option value="$PROJECT_DIR$/src/com/online/shop/admin/controller/ProductAddServlet.java" />
-        <option value="$PROJECT_DIR$/web/assets/css/main.css" />
         <option value="$PROJECT_DIR$/src/com/online/shop/admin/service/ProductService.java" />
         <option value="$PROJECT_DIR$/src/com/online/shop/admin/dao/ProductRepository.java" />
         <option value="$PROJECT_DIR$/src/com/online/shop/admin/dao/ProductRepositoryImpl.java" />
         <option value="$PROJECT_DIR$/src/com/online/shop/admin/service/ProductServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/com/online/shop/admin/controller/ProductListServlet.java" />
+        <option value="$PROJECT_DIR$/web/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/web/assets/css/shared.css" />
+        <option value="$PROJECT_DIR$/web/pages/product-add.jsp" />
+        <option value="$PROJECT_DIR$/web/assets/css/product-add.css" />
+        <option value="$PROJECT_DIR$/web/assets/css/product-list.css" />
+        <option value="$PROJECT_DIR$/web/pages/product-list.jsp" />
+        <option value="$PROJECT_DIR$/src/com/online/shop/admin/controller/ProductAddServlet.java" />
       </list>
     </option>
   </component>
@@ -176,11 +194,12 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2227" />
-    <option name="y" value="153" />
-    <option name="width" value="1280" />
-    <option name="height" value="688" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -209,6 +228,13 @@
             <path>
               <item name="servlet-online-shop-admin" type="b2602c69:ProjectViewProjectNode" />
               <item name="servlet-online-shop-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="servlet-online-shop-admin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="servlet-online-shop-admin" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -226,9 +252,7 @@
             </path>
             <path>
               <item name="servlet-online-shop-admin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="servlet-online-shop-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -237,12 +261,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1622310072309" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Pooja Job Search/java/servlet-bank" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1622362704635" />
+    <property name="last_opened_file_path" value="E:/apache-tomcat-8.0.37/lib/jstl-1.2.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
   </component>
   <component name="RebelAgentSelection">
@@ -381,15 +412,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622294970637</updated>
-      <workItem from="1622294974733" duration="11856000" />
+      <workItem from="1622294974733" duration="21629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11856000" />
+    <option name="totallyTimeSpent" value="21629000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="107" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="JRebel" side_tool="true" />
@@ -399,11 +430,11 @@
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info id="Web" sideWeight="0.3252688" side_tool="true" weight="0.23805667" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6747312" visible="true" weight="0.15671642" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6747312" visible="true" weight="0.23805667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.4991119" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="SonarLint" />
       <window_info anchor="bottom" id="Problems" />
@@ -416,7 +447,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.053285968" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49959514" visible="true" weight="0.31527627" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49959514" weight="0.4777975" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -441,7 +472,7 @@
       <window_info content_ui="combo" id="Project" order="7" sideWeight="0.6747312" weight="0.23805667" />
       <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.4991119" />
       <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="4" />
@@ -455,7 +486,7 @@
       <window_info anchor="bottom" id="Message" order="12" />
       <window_info anchor="bottom" id="Find" order="13" />
       <window_info anchor="bottom" id="Run" order="14" weight="0.053285968" />
-      <window_info active="true" anchor="bottom" id="Debug" order="15" sideWeight="0.49959514" visible="true" weight="0.5133215" />
+      <window_info active="true" anchor="bottom" id="Debug" order="15" sideWeight="0.49959514" visible="true" weight="0.4777975" />
       <window_info anchor="bottom" id="Cvs" order="16" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="17" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="18" />
@@ -496,7 +527,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/online/shop/admin/controller/ProductAddServlet.java</url>
-          <line>33</line>
+          <line>34</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
@@ -553,6 +584,12 @@
           <line>30</line>
           <properties />
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/online/shop/admin/controller/ProductListServlet.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -628,13 +665,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/online/shop/admin/config/MysqlDatabase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
@@ -642,20 +672,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/online/shop/admin/controller/ProductAddServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/pages/product-add.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="14" column="48" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -672,7 +688,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/online/shop/admin/entity/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="14" column="78" lean-forward="true" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
+          <caret line="14" column="78" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
         </state>
       </provider>
     </entry>
@@ -708,19 +724,138 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/online/shop/admin/controller/ProductListServlet.java">
+    <entry file="file://$PROJECT_DIR$/web/assets/css/shared.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="29" column="61" selection-start-line="29" selection-start-column="45" selection-end-line="29" selection-end-column="61" />
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/online/shop/admin/controller/ProductListServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/pages/product-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="13" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/css/product-add.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assets/css/product-list.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/pages/product-list.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        <state relative-caret-position="113">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="34" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/online/shop/admin/controller/ProductAddServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>servlet-online-shop-admin:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>servlet-online-shop-admin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

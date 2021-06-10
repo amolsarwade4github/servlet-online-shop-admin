@@ -10,18 +10,25 @@
 <head>
     <title>Add Product</title>
     <link rel="stylesheet" href="/admin/assets/css/main.css"/>
+    <link rel="stylesheet" href="/admin/assets/css/shared.css"/>
+    <link rel="stylesheet" href="/admin/assets/css/product-add.css"/>
 </head>
 <body>
-  <form action="/admin/product-add" method="POST">
-      <label for="title">Title</label>
-      <input type="text" id="title" name="title" />
-      <label for="sku">Sku</label>
-      <input type="text" id="sku" name="sku" />
-      <label for="price">Price</label>
-      <input type="text" id="price" name="price" />
-      <label for="quantity">Quantity</label>
-      <input type="text" id="quantity" name="quantity" />
-      <input type="submit" value="Save">
-  </form>
+    <main class="add-product-page">
+        <h1 class="add-product-title">
+            Create new Product
+        </h1>
+        <form action="/admin/product-add" method="POST" class="add-product-form">
+            <label for="title">Title</label>
+            <input type="text" id="title" name="title"/>
+            <label for="sku">Sku</label>
+            <input type="text" id="sku" name="sku"/>
+            <label for="price">Price</label>
+            <input type="text" id="price" name="price"/>
+            <label for="quantity">Quantity</label>
+            <input type="text" id="quantity" name="quantity"/>
+            <button type="submit" class="button">Save</button>
+        </form>
+    </main>
 </body>
 </html>
